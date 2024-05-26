@@ -46,7 +46,7 @@ function Html5() {
         </details>
         <details >
             <summary className='text-blue font-bold' style={{ color: 'blue' }}>
-                Q.1 What is HTML5?
+                Q.7 difference between html and html5 ?
             </summary>
             <p>Ans. HTML5 is the latest version of Hypertext Markup Language (HTML) used for structuring and presenting content on the web.</p>
         </details>
